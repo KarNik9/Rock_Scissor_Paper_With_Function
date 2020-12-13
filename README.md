@@ -1,2 +1,2 @@
-# Rock_Scissor_Paper_With_Function
-Classic Game, but with function
+# Rock_Scissor_Paper_With_Functions
+Classic Game, but with functions
